@@ -1,6 +1,4 @@
-# IICL
-
-# Unified Text Encoder with Intra- and Inter-modal Contrastive Learning for Cross-modal Recipe Retrieval
+# Unified Text Encoder with Intra- and Inter-modal Contrastive Learning for Cross-modal Recipe Retrieval (IICL)
 
 This is the PyTorch companion code for the paper:
 
