@@ -2,7 +2,7 @@
 
 This is the PyTorch companion code for the paper:
 
-*Bolin Zhang, Jianhao Li, Chao Yang, Bin Jiang, Takahiro Komamizu, Ichiro Ide, Jiangbo Qian.* **Unified Text Encoder with Intra- and Inter-modal Contrastive Learning for Cross-modal Recipe Retrieval**, TCSVT, 2025.
+ **Unified Text Encoder with Intra- and Inter-modal Contrastive Learning for Cross-modal Recipe Retrieval**, IEEE/CAA Journal of Automatica Sinica, 2025.
 
 Note: The configuration file will be uploaded following the acceptance of the paper.
 
