@@ -91,7 +91,7 @@ python eval.py --embeddings_file saved_checkpoints/model/feats_test.pkl --retrie
 
 
 - We have provided the model trained on the Recipe1M and Flickr30k datasets dataset, please download and unzip it. Please download from the [link](https://pan.baidu.com/s/1o7fluqV2JUaz5lGWazJ7Nw?pwd=diz1).
-- Extract features for the test set samples of Recipe1M using one of the pretrained models by running:
+- Extract features for the test set samples of Recipe1M or Flickr30k using one of the pretrained models by running:
 
 ```
 python test.py --model_name model --eval_split test --root DATASET_PATH --save_dir saved_checkpoints
