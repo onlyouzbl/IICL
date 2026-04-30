@@ -4,8 +4,6 @@ This is the PyTorch companion code for the paper:
 
  **Unified Text Encoder with Intra- and Inter-modal Contrastive Learning for Cross-modal Recipe Retrieval**, submit to TMM, 2025
 
-Note: The configuration file will be uploaded following the acceptance of the paper.
-
 
 # Installation
 
