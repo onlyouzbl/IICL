@@ -1,0 +1,22 @@
+name: intra_inter_recipeCL
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  # - pytorch
+  # - conda-forge
+dependencies:
+  - python=3.10.6
+  - pip
+  - nltk
+  - scikit-learn
+  - numpy
+  - pillow
+  - pytorch=1.12.1
+  - torchvision=0.13.0
+  - tqdm
+  - pip:
+    - tensorboard==2.9.0
+    - tensorboardx==2.5.1
+    - timm==0.4.12
+    - wordcloud
