@@ -52,7 +52,7 @@ This process will create auxiliary files under `DATASET_PATH/traindata`, which w
 
 ## Flickr30k Data preparation
 
-- Download & uncompress Flickr30k [dataset](https://pan.baidu.com/s/1o7fluqV2JUaz5lGWazJ7Nw?pwd=diz1), put it under "src" folder.
+- Download & uncompress Flickr30k [dataset](https://pan.baidu.com/s/17Xfq8crm_rQMrquiqbo2TA), put it under "src" folder.
 
  
 
@@ -90,7 +90,7 @@ python eval.py --embeddings_file saved_checkpoints/model/feats_test.pkl --retrie
 
 
 
-- We have provided the model trained on the Recipe1M and Flickr30k datasets dataset, please download and unzip it. Please download from the [link](https://pan.baidu.com/s/1o7fluqV2JUaz5lGWazJ7Nw?pwd=diz1).
+- We have provided the model trained on the Recipe1M and Flickr30k datasets dataset, please download and unzip it. Please download from the [link](https://pan.baidu.com/s/1-i-rm-AggXfNKOoCZrIHYg).
 - Extract features for the test set samples of Recipe1M or Flickr30k using one of the pretrained models by running:
 
 ```
