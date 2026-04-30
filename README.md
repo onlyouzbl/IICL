@@ -57,7 +57,9 @@ This process will create auxiliary files under `DATASET_PATH/traindata`, which w
 - Launch training with:
 
 ```
-CUDA_VISIBLE_DEVICES=0,1, python train.py --model_name model --root DATASET_PATH --save_dir saved_checkpoints --log_dir LOG_DIR 
+
+CUDA_VISIBLE_DEVICES=6,7 python train.py --model_name model --interCL_loss_weight 0.1 --intraCL_loss_weight 0.001  --root DATASET_PATH --save_dir saved_checkpoints --log_dir LOG_DIR 
+
 ```
 
 Run `python train.py --help` for the full list of available arguments.
