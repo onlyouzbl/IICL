@@ -27,7 +27,7 @@ conda activate IICL
 
 
 
-- Download & uncompress Recipe1M [dataset](http://im2recipe.csail.mit.edu/dataset/download). The contents of the directory `DATASET_PATH` should be the following:
+- Download & uncompress Recipe1M [dataset](https://im2recipe.csail.mit.edu/). The contents of the directory `DATASET_PATH` should be the following:
 
 ```
 layer1.json
